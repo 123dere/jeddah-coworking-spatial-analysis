@@ -99,7 +99,7 @@ The original project also used **ArcGIS Pro / ArcPy** for several GIS processing
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/jeddah-coworking-spatial-analysis.git
+git clone https://github.com/123dere/jeddah-coworking-spatial-analysis.git
 cd jeddah-coworking-spatial-analysis
 ```
 

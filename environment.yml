@@ -1,0 +1,15 @@
+name: jeddah-coworking
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy
+  - statsmodels
+  - matplotlib
+  - geopandas
+  - shapely
+  - scikit-learn
+  - libpysal
+  - esda

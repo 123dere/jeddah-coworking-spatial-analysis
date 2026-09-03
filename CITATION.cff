@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using these metadata."
+title: "Spatial Clustering and Locational Correlates of Coworking Spaces in Jeddah: Reproducible Analysis"
+type: software
+version: 0.1.0
+date-released: 2026-09-03
+license: MIT
+authors:
+  - family-names: Hardi
+    given-names: Apri Zulmi
+  - family-names: Tiwari
+    given-names: Alok
+  - family-names: Naji
+    given-names: Ammar A.
+repository-code: "https://github.com/YOUR_USERNAME/jeddah-coworking-spatial-analysis"
+abstract: >-
+  Reproducible GIS and statistical workflow for analysing spatial clustering
+  and locational correlates of coworking spaces in Jeddah, Saudi Arabia,
+  including Monte Carlo nearest-neighbour analysis, KDE, Ripley's L,
+  binary logistic regression, Moran's I residual diagnostics, spatial-scale
+  sensitivity, and Firth bias-reduced logistic regression.
+keywords:
+  - coworking
+  - GIS
+  - spatial statistics
+  - logistic regression
+  - Firth regression
+  - Jeddah
+  - Saudi Arabia

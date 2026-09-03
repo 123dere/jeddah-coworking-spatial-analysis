@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Secrets / local config
+.env
+.env.*
+secrets.*
+*.key
+*.pem
+
+# ArcGIS
+*.aprx
+*.aprx.lock
+*.lock
+*.gdb/
+*.geodatabase
+scratch.gdb/
+Default.gdb/
+
+# Large/private/raw data
+data/raw/*
+data/private/*
+!data/raw/.gitkeep
+!data/private/.gitkeep
+
+# Temporary / generated
+outputs/*
+!outputs/.gitkeep
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# Optional local processed files not intended for release
+data/processed_public/*.gpkg
+data/processed_public/*.shp
+data/processed_public/*.dbf
+data/processed_public/*.shx
+data/processed_public/*.prj
+data/processed_public/*.cpg

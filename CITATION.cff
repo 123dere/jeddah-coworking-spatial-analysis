@@ -12,7 +12,7 @@ authors:
     given-names: Alok
   - family-names: Naji
     given-names: Ammar A.
-repository-code: "https://github.com/YOUR_USERNAME/jeddah-coworking-spatial-analysis"
+repository-code: "https://github.com/123dere/jeddah-coworking-spatial-analysis"
 abstract: >-
   Reproducible GIS and statistical workflow for analysing spatial clustering
   and locational correlates of coworking spaces in Jeddah, Saudi Arabia,

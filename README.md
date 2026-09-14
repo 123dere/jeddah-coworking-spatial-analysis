@@ -32,7 +32,18 @@ A reproducible portfolio repository for a multiscale GIS and statistical analysi
   - **Built-up percentage:** OR = 1.042
   - **Road density:** OR = 1.075
 - At 2 km, business density and built-up percentage remained statistically significant, while road density became scale-sensitive.
-- Firth bias reduction produced the same substantive inferential pattern.
+- **Rare-event robustness:** Firth bias-reduced logistic regression produced the same substantive inferential pattern, with modest attenuation of the estimated odds ratios.
+
+## Statistical robustness
+
+Because coworking-space presence was sparse, the final 1-km and 2-km models were also re-estimated using Firth's bias-reduced logistic regression.
+
+The Firth estimates were:
+
+- **1-km:** Business density OR = 2.059; Built-up percentage OR = 1.041; Road density OR = 1.073.
+- **2-km:** Business density OR = 5.335; Built-up percentage OR = 1.037; Road density OR = 1.064.
+
+The Firth analysis confirmed the same inferential conclusions as the conventional GLR. Detailed results are provided in [`tables/firth_robustness.csv`](tables/firth_robustness.csv).
 
 ## Repository structure
 

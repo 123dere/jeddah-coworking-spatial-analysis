@@ -140,16 +140,24 @@ The exact publication analysis should be reproduced only from shareable, verifie
 
 The repository contains selected publication/portfolio figures in `figures/`. Verify any underlying basemap or third-party imagery license before redistributing map products.
 
-## Citation
+## Publication
 
-If you use this repository, please cite it using the metadata in [`CITATION.cff`](CITATION.cff).
+**Published in *Urban Science* (2026), 10(9), 527**
 
-After publication, update the repository with:
+This repository accompanies the following published article:
 
-- the journal DOI;
-- a GitHub Release;
-- a Zenodo archive DOI;
-- the final citation.
+> Hardi, A. Z., Tiwari, A., & Naji, A. A. (2026). Spatial Clustering and Locational Correlates of Coworking Spaces in Jeddah, Saudi Arabia: A Multiscale GIS and Logistic Regression Analysis. *Urban Science, 10*(9), 527.
+
+**Article DOI:**  
+https://doi.org/10.3390/urbansci10090527
+
+[View the published article](https://doi.org/10.3390/urbansci10090527)
+
+## Research Software Release
+
+This repository contains the reproducible analysis workflow associated with the published article, including the analysis scripts, selected figures, statistical result tables, and documentation.
+
+The `v1.0.0` release represents the published research workflow. The Zenodo DOI will be added here once the release has been archived.
 
 ## Authors
 

@@ -1,0 +1,4 @@
+predictor,or_1km,p_1km,or_2km,p_2km,interpretation
+Business density,2.132748,4.1e-05,6.236881,0.005475,Positive and significant
+Built-up percentage,1.041869,5e-06,1.037719,0.001155,Positive and significant
+Road density,1.074831,0.007797,1.066495,0.084586,"Positive, scale-sensitive"

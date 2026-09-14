@@ -1,0 +1,7 @@
+scale,predictor,mle_or,firth_or,profile_ci_low,profile_ci_high,plr_p
+1-km,Business density,2.133,2.059,1.495,3.041,<0.001
+1-km,Built-up percentage,1.042,1.041,1.024,1.061,<0.001
+1-km,Road density,1.075,1.073,1.02,1.134,0.0059
+2-km,Business density,6.237,5.335,1.754,21.531,0.0018
+2-km,Built-up percentage,1.038,1.037,1.015,1.061,0.001
+2-km,Road density,1.066,1.064,0.992,1.145,0.0845

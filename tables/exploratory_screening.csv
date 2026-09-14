@@ -1,0 +1,16 @@
+variable,mean_cw_present,mean_cw_absent,spearman_rho,p_value
+Business density,1.408,0.063,0.441,<0.001
+Creative-industry density,0.385,0.021,0.319,<0.001
+Hotel density,1.822,0.345,0.316,<0.001
+Mall density,1.211,0.214,0.261,<0.001
+Cafe density,2.223,0.429,0.244,<0.001
+Mosque density,1.03,0.175,0.239,<0.001
+Health-service density,1.801,0.232,0.229,<0.001
+Built-up percentage,77.445,30.43,0.224,<0.001
+Road density,20.623,9.426,0.202,<0.001
+Grocery density,1.827,0.441,0.189,<0.001
+University/research density,0.519,0.078,0.188,<0.001
+Restaurant density,1.623,0.497,0.174,<0.001
+Park density,0.732,0.128,0.173,<0.001
+Government-office density,0.889,0.26,0.162,<0.001
+Bus-stop density,0.103,0.031,0.076,0.0045

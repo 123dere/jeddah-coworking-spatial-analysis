@@ -1,0 +1,4 @@
+predictor,beta,se,odds_ratio,ci_low,ci_high,p_value
+Business density,0.757411,0.18469,2.132748,1.485007,3.063025,4.1e-05
+Built-up percentage,0.041016,0.008969,1.041869,1.023714,1.060346,5e-06
+Road density,0.072163,0.027122,1.074831,1.019187,1.133514,0.007797

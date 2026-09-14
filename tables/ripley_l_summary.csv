@@ -1,0 +1,2 @@
+distance_min_km,distance_max_km,simulations,envelope,finding
+0.25,10.0,999,95% pointwise CSR,Observed centered L above upper envelope throughout evaluated range
